@@ -34,7 +34,7 @@ I am a passionate Illustrator, and still learning about Web Design.
   
 # 💻 My Rig Specification
 
-![CPU](https://img.shields.io/badge/Intel-Core_i5_9th_9300H-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/NVIDIA-GTX1660TI_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/Corsair-DDR4_32GB_2666Mhz-E34F26?style=for-the-badge&logo=corsair&logoColor=white) ![OS](https://img.shields.io/badge/Windows-ASUS_ROG_G531GU-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![CPU](https://img.shields.io/badge/Intel-Core_i5_11th_11400H-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![GPU](https://img.shields.io/badge/NVIDIA-RTX3050_4GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/Corsair-DDR4_16GB_3200Mhz-E34F26?style=for-the-badge&logo=corsair&logoColor=white) ![OS](https://img.shields.io/badge/Windows-Acer_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
